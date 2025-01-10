@@ -1,4 +1,4 @@
-# Customer Churn Prediction Project
+# Customer Churn Prediction
 
 ## Project Overview
 
@@ -10,15 +10,15 @@ The main goal is to develop a machine learning model to predict whether a custom
 
 ## Achievements
 
-**Data Preprocessing:** Handled missing values, converted categorical variables into numeric format using Label Encoding, and scaled numerical features.
+- **Data Preprocessing:** Handled missing values, converted categorical variables into numeric format using Label Encoding, and scaled numerical features.
 
-**Class Imbalance Handling:** Utilized SMOTE to oversample the minority class, ensuring balanced training data.
+- **Class Imbalance Handling:** Utilized SMOTE to oversample the minority class, ensuring balanced training data.
 
-**Exploratory Data Analysis:** Visualized correlations, churn distribution, and the impact of key features like MonthlyCharges on churn.
+- **Exploratory Data Analysis:** Visualized correlations, churn distribution, and the impact of key features like MonthlyCharges on churn.
 
-**Model Training:** Built and tuned Random Forest and XGBoost classifiers to predict churn with high accuracy.
+- **Model Training:** Built and tuned Random Forest and XGBoost classifiers to predict churn with high accuracy.
 
-**Evaluation:** Achieved robust performance metrics, visualized confusion matrices, and analyzed feature importance to interpret model predictions.
+- **Evaluation:** Achieved robust performance metrics, visualized confusion matrices, and analyzed feature importance to interpret model predictions.
 
 ## Key Insights
 
